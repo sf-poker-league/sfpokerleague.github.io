@@ -1,2 +1,2 @@
 # Stratagem Hero Online
-Play the game here! https://combustibletoast.github.io/
+Play my fork game here! https://sf-poker-league.github.io/
